@@ -7,7 +7,7 @@ hero:
   text: "A guide to you new home"
   tagline: Here we go !!!
   image:
-    src: logo.png
+    src: https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alliance_University_Icon.svg/440px-Alliance_University_Icon.svg.png
   actions:
     - theme: brand
       text: Lets get started -->

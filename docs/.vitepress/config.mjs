@@ -5,7 +5,7 @@ export default defineConfig({
   title: "AU-topia",
   description: "A guide to your new home",
   themeConfig: {
-    logo: 'logo.png',
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alliance_University_Icon.svg/440px-Alliance_University_Icon.svg.png',
     siteTitle: 'Alliance University',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
