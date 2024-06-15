@@ -13,3 +13,6 @@
 > pnpm run docs:dev  
 
 > yarn docs:dev  
+
+After starting the server, a localhost will be created with the following link.  
+> http://localhost:5173
