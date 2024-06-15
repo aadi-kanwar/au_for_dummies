@@ -7,7 +7,7 @@ hero:
   text: "A guide to you new home"
   tagline: Here we go !!!
   image:
-    src: /logo.png
+    src: logo.png
   actions:
     - theme: brand
       text: Lets get started -->
