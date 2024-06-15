@@ -1,4 +1,4 @@
-# AU for Dummies
+# AU-topia
 
 ## Installing VitePress
 > npm add -D vitepress  

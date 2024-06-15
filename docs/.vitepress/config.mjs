@@ -2,12 +2,14 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "AU for Dummies",
-  description: "Let's get started!",
+  title: "AU-topia",
+  description: "A guide to your new home",
   themeConfig: {
+    logo: '/logo.png',
+    siteTitle: 'Alliance University',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/index.md' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
@@ -24,5 +26,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
+
   }
 })

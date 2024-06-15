@@ -3,23 +3,21 @@
 layout: home
 
 hero:
-  name: "AU for Dummies"
-  text: "Let's get started!"
-  tagline: My great project tagline
+  name: "AU-topia"
+  text: "A guide to you new home"
+  tagline: Here we go !!!
+  image:
+    src: /logo.png
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Lets get started -->
+      link: /
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+// features:
+  - title: Alliance College of Engineering & Design
+    details: ACED
+  - title: Alliance School of Business
+    details: ASOB
+  - title: Alliance School of Law
+    details: ASOL
 ---
-
