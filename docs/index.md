@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "AU-topia"
-  text: "A guide to you new home"
-  tagline: Here we go !!!
+  text: "A guide to your new home"
+  //tagline: Ready to go ?
   image:
     src: https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alliance_University_Icon.svg/440px-Alliance_University_Icon.svg.png
   actions:

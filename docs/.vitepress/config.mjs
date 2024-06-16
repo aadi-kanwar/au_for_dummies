@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/index.md' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Useful Links', link: '/' }
     ],
 
     sidebar: [
@@ -24,8 +24,18 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aadi-kanwar/au_topia' }
-    ]
+      { icon: 'github', link: 'https://github.com/aadi-kanwar/au_topia' },
+      { icon: 'twitter', link: 'https://twitter.com/AllianceUniOfcl'},
+      { icon: 'linkedin', link: 'https://www.linkedin.com/school/allianceuniofcl/'},
+      { icon: 'facebook', link: 'https://www.facebook.com/AllianceUniOfcl'},
+      { icon: 'instagram', link: 'https://www.instagram.com/allianceuniofcl/'},
+      { icon: 'youtube', link: 'https://www.youtube.com/@AllianceUniOfcl'}
+    ],
+
+    footer: {
+      message: 'Made by Aadi Kanwar',
+      copyright: 'Copyright © 2024 Alliance University'
+    }
 
   }
 })
