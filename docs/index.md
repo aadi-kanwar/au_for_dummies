@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Lets get started -->
-      link: /
+      link: /intro.md
 
 // features:
   - title: Alliance College of Engineering & Design

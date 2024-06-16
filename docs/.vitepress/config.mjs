@@ -15,10 +15,38 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Introduction', link: '/intro.md'},
+          { text: 'General Information', link: '/g_info.md' },
+        ]
+      },
+      {
+        text: 'Academics',
+        items: [
+          { text: 'ACED', link: '' },
+          { text: 'ASOB', link: '' },
+          { text: 'ASOL', link: '' },
+          { text: 'ASLA', link: '' },
+        ]
+      },
+      {
+        text: 'Campus Life',
+        items: [
+          { text: 'Events', link: '/events.md' },
+          { text: 'Library', link: '/' },
+          { text: 'Hostels', link: '/' },
+          { text: 'Clubs', link: '/' },
+          { text: 'Places to hang out', link: '/' },
+          { text: 'E-Resources', link: '/' },
+          { text: 'Cafeterias', link: '/' },
+          { text: 'Transport', link: '/' },
+          { text: 'Sports', link: '/' },
+          { text: 'DoSSS', link: '/' },
+        ]
+      },
+      {
+        items: [
+          { text: 'Contact Us', link: '/' }
         ]
       }
     ],
