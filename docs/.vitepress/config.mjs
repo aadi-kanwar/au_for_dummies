@@ -18,6 +18,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/intro.md'},
           { text: 'General Information', link: '/g_info.md' },
+          { text: 'Useful Links', link: '/links.md' },
         ]
       },
       {
