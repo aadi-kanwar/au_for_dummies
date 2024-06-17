@@ -3,9 +3,23 @@
 ## General Links
 [Alliance University Official Website](https://www.alliance.edu.in/)
 
+[Alliance Library](https://library.alliance.edu.in/)
+
 [Apply for Admissions](https://apply.alliance.edu.in/)
 
 [Student Life](https://www.alliance.edu.in/dosss/)
 
-### Brochure
+[Transport](https://drive.google.com/file/d/1OugMwDTKJUIlS_OBLxlDISCWlqZNEz_F/view?usp=sharing)
+
+## Academic Brochures
 [Alliance College of Engineering & Design](https://drive.google.com/file/d/1e2h5tKnhSq5cGuoQeCzo3Q8LNqPMIIcv/view?usp=sharing)
+
+[Allianc School of Business - MBA](https://drive.google.com/file/d/16XcnWTt9TUBW3wHooJawVMAJy7a1Me1T/view?usp=sharing)
+
+[Alliance School of Law](https://drive.google.com/file/d/12xkAMno_xImXzWFGTwVj_wE9nCuQeKLX/view?usp=sharing)
+
+[Alliance School of Liberal Arts & Humanities](https://drive.google.com/file/d/1We-J8TCNwbvz04DqloS6LCbf8N_r43ew/view?usp=sharing)
+
+[Alliance School of Design & Creative Arts](https://drive.google.com/file/d/1WN1asm5NWezDwvI_qCgdZG-Xze94GqOQ/view?usp=sharing)
+
+[Alliance School of Film & Media Studies](https://drive.google.com/file/d/1fZO2Y_OPV07M__WLWjNYgkpgW8wFwrSP/view?usp=sharing)

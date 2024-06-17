@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: 'Academics',
         items: [
-          { text: 'ACED', link: '' },
+          { text: 'ACED', link: '/aced.md' },
           { text: 'ASOB', link: '' },
           { text: 'ASOL', link: '' },
           { text: 'ASLA', link: '' },
@@ -49,7 +49,7 @@ export default defineConfig({
       },
       {
         items: [
-          { text: 'Contact Us', link: '/' }
+          { text: 'Contact Us', link: '/team.md' }
         ]
       }
     ],
