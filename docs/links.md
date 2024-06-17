@@ -5,6 +5,8 @@
 
 [Alliance Library](https://library.alliance.edu.in/)
 
+[Rankings & Allocades](https://www.alliance.edu.in/about-us/ranking-accolades)
+
 [Apply for Admissions](https://apply.alliance.edu.in/)
 
 [Student Life](https://www.alliance.edu.in/dosss/)

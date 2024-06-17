@@ -26,7 +26,7 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
   - [ASOL]()
   - [ASLA]()
 - **Campus Life**
-  - [Events]()
+  - [Events](/events.md)
   - [DoSSS]()
   - [Hostels]()
   - [Clubs]()
@@ -37,4 +37,4 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
   - [Sports]()
 - **Miscellaneous**
   - [Contact Us]()
-  - [Creator]()
+  - [Creator](/me.md)
