@@ -8,7 +8,7 @@ Plus, it's all about keeping the campus safe and sound from unauthorized party c
 
 Your ID card is your magic key to many places on campus. One such place is the library. Want to get lost in a good book? You'll need your ID card to gain access. And if you find that perfect book you can't put down, you'll need it again to check it out. So, keep that ID handy—your literary adventures depend on it!
 
-### Attendace
+### Attendance
 According to University policy, all students need to keep their attendance at a minimum of **75%** in every subject to be eligible for the exams. So, unless you want to be a ghost at your own exams, make sure you show up to class! Remember, being present is half the battle—literally.
 
 Your attendance percentage will earn you some extra marks. So, think of showing up to class as collecting bonus points just for being there!

@@ -26,6 +26,8 @@ export default defineConfig({
       {
         text: 'Academics',
         items: [
+          { text: 'Schools/College', link: '/schools.md' },
+          { text: 'Library', link: '/library.md' },
           { text: 'ACED', link: '/aced.md' },
           { text: 'ASOB', link: '' },
           { text: 'ASOL', link: '' },
@@ -36,7 +38,7 @@ export default defineConfig({
         text: 'Campus Life',
         items: [
           { text: 'Events', link: '/events.md' },
-          { text: 'Library', link: '/' },
+          { text: 'DoSSS', link: '/' },
           { text: 'Hostels', link: '/' },
           { text: 'Clubs', link: '/' },
           { text: 'Places to hang out', link: '/' },
@@ -44,12 +46,14 @@ export default defineConfig({
           { text: 'Cafeterias', link: '/' },
           { text: 'Transport', link: '/' },
           { text: 'Sports', link: '/' },
-          { text: 'DoSSS', link: '/' },
         ]
       },
       {
+        text: 'Miscellaneous',
+
         items: [
-          { text: 'Contact Us', link: '/team.md' }
+          { text: 'Contact Us', link: '/team.md' },
+          { text: 'Creator', link: '/me.md'}
         ]
       }
     ],
