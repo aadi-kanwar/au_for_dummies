@@ -12,7 +12,39 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/index.md' },
-      { text: 'Useful Links', link: '/links.md' }
+      { text: 'Useful Links', link: '/links.md' },
+      {
+        text: 'Academics',
+        items: [
+          { text: 'Schools/Colleges', link: '/schools.md'},
+          { text: 'Library', link: '/'},
+          { text: 'ACED', link: '/aced.md'},
+          { text: 'ASOB', link: '/'},
+          { text: 'ASOL', link: '/'},
+          { text: 'ASLA', link: '/'}
+        ]
+      },
+      {
+        text: 'Campus Life',
+        items: [
+          { text: 'Events', link: '/events.md'},
+          { text: 'DoSSS', link: '/'},
+          { text: 'Hostels', link: '/'},
+          { text: 'Clubs', link: '/'},
+          { text: 'Places to hang out', link: '/'},
+          { text: 'E-Resources', link: '/'},
+          { text: 'Cafeterias', link: '/'},
+          { text: 'Transport', link: '/'},
+          { text: 'Sports', link: '/'}
+        ]
+      },
+      {
+        text: 'Miscellaneous',
+        items: [
+          { text: 'Contact Us', link: '/team.md'},
+          { text: 'Creator', link: '/me.md'}
+        ]
+      }
     ],
 
     sidebar: [
