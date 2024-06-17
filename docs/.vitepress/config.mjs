@@ -4,13 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "AU-topia",
   description: "A guide to your new home",
+  head:[['link', { rel: 'icon', href: 'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alliance_University_Icon.svg/440px-Alliance_University_Icon.svg.png' }], 
+  ['link', { rel: 'stylesheet', href: '/style.css' }]],
   themeConfig: {
     logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alliance_University_Icon.svg/440px-Alliance_University_Icon.svg.png',
     siteTitle: 'Alliance University',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/index.md' },
-      { text: 'Useful Links', link: '/' }
+      { text: 'Useful Links', link: '/links.md' }
     ],
 
     sidebar: [
