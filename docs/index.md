@@ -16,11 +16,30 @@ hero:
       text: Useful Links
       link: /links.md
 
-// features:
-  - title: Alliance College of Engineering & Design
+//features:
+  - icon:
+    title: Alliance College of Engineering & Design
     details: ACED
-  - title: Alliance School of Business
+  - icon:
+    title: Alliance School of Business
     details: ASOB
-  - title: Alliance School of Law
+  - icon:
+    title: Alliance School of Law
     details: ASOL
+
+
+features:
+  - icon: 🌳
+    title: 60+ 
+    details: Acres of lush green campus
+    
+  - icon: 🤵
+    title: 350+
+    details: Highly Skilled Faculty
+  - icon: 🧑‍🎓
+    title: 32k+
+    details: Alumni across globe.
+  - icon: 🏆
+    title: 600+
+    details: Recruitment Partners
 ---

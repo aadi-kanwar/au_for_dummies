@@ -10,3 +10,5 @@ Here is a list of the academic units at AU.
 * Alliance School of Design & Creative Arts 
 * Alliance School of Economics
 * Alliance School of Film & Media Studies
+* Alliance School of Sciences
+* Centre of Excellence in Public Policy, Sustainability and ESG Research
