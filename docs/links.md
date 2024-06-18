@@ -11,6 +11,8 @@
 
 [Student Life](https://www.alliance.edu.in/dosss/)
 
+[Student Code of Conduct Handbook](https://drive.google.com/file/d/1k0nyqmbK94NiWgqz4tv4Yxq4b70RL84X/view?usp=sharing)
+
 [Transport](https://drive.google.com/file/d/1OugMwDTKJUIlS_OBLxlDISCWlqZNEz_F/view?usp=sharing)
 
 ## Academic Brochures

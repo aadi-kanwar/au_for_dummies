@@ -13,6 +13,17 @@ But hey, you don’t want to be the newbie wandering around campus like a confus
 
 Oh, and by the way, this guide is a work in progress. So, keep an eye out for updates. Stay tuned and stay awesome!
 
+
+## Our Campuses
+
+1. Central Campus
+   - Chikkahagade Cross, Chandapura - Anekal Main Road, Anekal, Bengaluru – 562 106, Karnataka, India.
+
+2. City Campus 1
+   - 19th Cross, 7th Main, BTM 2nd Stage, N.S. Palya, Bengaluru – 560 076, Karnataka, India.
+
+3. City Campus 2
+   - 2nd Cross, 36th Main, Dollars Scheme, BTM 1st Stage, Bengaluru – 560 068, Karnataka, India
 ---
 ## Table of Contents
 - [Introduction](intro.md)
@@ -20,9 +31,8 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
 - [Useful Links](links.md)
 - **Academics**
   - [Schools/College](schools.md)
-  - [Library]()
   - [ACED](aced.md)
-  - [ASOB]()
+  - [ASOB](asob.md)
   - [ASOL]()
   - [ASLA]()
 - **Campus Life**
@@ -31,10 +41,13 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
   - [Hostels]()
   - [Clubs]()
   - [Places to Chill]()
-  - [E-Resources]()
+  - [Library]()
   - [Cafeterias]()
   - [Transport]()
   - [Sports]()
 - **Miscellaneous**
   - [Contact Us]()
   - [Creator](/me.md)
+  
+## Glimpses of Alliance University
+<iframe src="/vid1.mp4?autoplay=1&muted=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -11,7 +11,7 @@ import {
 
 const members = [
   {
-    avatar: 'me.jpg',
+    avatar: 'me1.jpg',
     name: 'Aadi Kanwar',
     title: 'Developer',
     links: [

@@ -17,9 +17,8 @@ export default defineConfig({
         text: 'Academics',
         items: [
           { text: 'Schools/Colleges', link: '/schools.md'},
-          { text: 'Library', link: '/'},
           { text: 'ACED', link: '/aced.md'},
-          { text: 'ASOB', link: '/'},
+          { text: 'ASOB', link: '/asob.md'},
           { text: 'ASOL', link: '/'},
           { text: 'ASLA', link: '/'}
         ]
@@ -32,7 +31,7 @@ export default defineConfig({
           { text: 'Hostels', link: '/'},
           { text: 'Clubs', link: '/'},
           { text: 'Places to hang out', link: '/'},
-          { text: 'E-Resources', link: '/'},
+          { text: 'Library', link: '/'},
           { text: 'Cafeterias', link: '/'},
           { text: 'Transport', link: '/'},
           { text: 'Sports', link: '/'}
@@ -59,9 +58,8 @@ export default defineConfig({
         text: 'Academics',
         items: [
           { text: 'Schools/College', link: '/schools.md' },
-          { text: 'Library', link: '/library.md' },
           { text: 'ACED', link: '/aced.md' },
-          { text: 'ASOB', link: '' },
+          { text: 'ASOB', link: '/asob.md' },
           { text: 'ASOL', link: '' },
           { text: 'ASLA', link: '' },
         ]
@@ -74,7 +72,7 @@ export default defineConfig({
           { text: 'Hostels', link: '/' },
           { text: 'Clubs', link: '/' },
           { text: 'Places to hang out', link: '/' },
-          { text: 'E-Resources', link: '/' },
+          { text: 'Library', link: '/' },
           { text: 'Cafeterias', link: '/' },
           { text: 'Transport', link: '/' },
           { text: 'Sports', link: '/' },
