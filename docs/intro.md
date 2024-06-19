@@ -12,7 +12,7 @@ Alliance University is a Private University established in Karnataka State by Ac
 
 ### Glimpses of Alliance University
 --- 
-<iframe src="/vid1.mp4?autoplay=0&muted=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="/vid1.mp4?autoplay=0&muted=1" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 But hey, you don’t want to be the newbie wandering around campus like a confused puppy, right? Fear not, my friend! This guide is here to save you from looking like a lost tourist in your own university. Let's dive in!
 
