@@ -27,10 +27,9 @@ export default defineConfig({
         text: 'Campus Life',
         items: [
           { text: 'DoSSS', link: '/dosss.md'},
-          { text: 'Hostels', link: '/'},
           { text: 'Clubs', link: '/clubs.md'},
           { text: 'Places to hang out', link: '/'},
-          { text: 'Library', link: '/'},
+          { text: 'Library', link: '/library.md'},
           { text: 'Cafeterias', link: '/'},
           { text: 'Transport', link: '/'},
           { text: 'Sports', link: '/'}
@@ -67,10 +66,9 @@ export default defineConfig({
         text: 'Campus Life',
         items: [
           { text: 'DoSSS', link: '/dosss.md' },
-          { text: 'Hostels', link: '/' },
           { text: 'Clubs', link: '/clubs.md' },
           { text: 'Places to hang out', link: '/' },
-          { text: 'Library', link: '/' },
+          { text: 'Library', link: '/library.md' },
           { text: 'Cafeterias', link: '/' },
           { text: 'Transport', link: '/' },
           { text: 'Sports', link: '/' },

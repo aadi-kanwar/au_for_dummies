@@ -8,7 +8,7 @@ Welcome to Alliance University! Join us for an exciting adventure!
 
 Alliance University is a Private University established in Karnataka State by Act No.34 of year 2010 and is recognized by the University Grants Commission (UGC), New Delhi.
 
-![About Us](https://www.alliance.edu.in/siteassets/images/aboutus-banner.jpg)
+![About Us](https://www.alliance.edu.in/uploads/infra_gallery/campaus-banner_3.webp)
 
 <!-- ### Glimpses of Alliance University
 --- 
@@ -41,10 +41,9 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
   - [ASLA]()
 - **Campus Life**
   - [DoSSS](dosss.md)
-  - [Hostels]()
   - [Clubs](clubs.md)
   - [Places to Chill]()
-  - [Library]()
+  - [Library](library.md)
   - [Cafeterias]()
   - [Transport]()
   - [Sports]()

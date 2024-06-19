@@ -10,7 +10,7 @@ Picture them as the stealthy ninjas of student survival, making sure you not onl
 ## Co-Ex Cell
 The Co-Curricular and Extra Curricular (Co-Ex) Cell at DoSSS is the vibrant hub of student life, serving up a diverse array of enriching experiences for all AU students to enjoy.
 
-- Co-Curricular Clubs
+- [Co-Curricular Clubs](./#co-curricular-clubs)
 - Extra - Curricular Clubs
 - Hobby clubs
 - Community Service Clubs
