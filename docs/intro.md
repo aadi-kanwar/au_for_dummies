@@ -40,7 +40,7 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
   - [ASOL]()
   - [ASLA]()
 - **Campus Life**
-  - [DoSSS]()
+  - [DoSSS](dosss.md)
   - [Hostels]()
   - [Clubs](clubs.md)
   - [Places to Chill]()

@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: 'Campus Life',
         items: [
-          { text: 'DoSSS', link: '/'},
+          { text: 'DoSSS', link: '/dosss.md'},
           { text: 'Hostels', link: '/'},
           { text: 'Clubs', link: '/clubs.md'},
           { text: 'Places to hang out', link: '/'},
@@ -66,7 +66,7 @@ export default defineConfig({
       {
         text: 'Campus Life',
         items: [
-          { text: 'DoSSS', link: '/' },
+          { text: 'DoSSS', link: '/dosss.md' },
           { text: 'Hostels', link: '/' },
           { text: 'Clubs', link: '/clubs.md' },
           { text: 'Places to hang out', link: '/' },
