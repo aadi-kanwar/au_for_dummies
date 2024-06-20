@@ -28,7 +28,7 @@ export default defineConfig({
         items: [
           { text: 'DoSSS', link: '/dosss.md'},
           { text: 'Clubs', link: '/clubs.md'},
-          { text: 'Places to hang out', link: '/'},
+          { text: 'Gallery', link: '/gallery.md'},
           { text: 'Library', link: '/library.md'},
           { text: 'Cafeterias', link: '/'},
           { text: 'Transport', link: '/'},
@@ -67,7 +67,7 @@ export default defineConfig({
         items: [
           { text: 'DoSSS', link: '/dosss.md' },
           { text: 'Clubs', link: '/clubs.md' },
-          { text: 'Places to hang out', link: '/' },
+          { text: 'Gallery', link: '/gallery.md' },
           { text: 'Library', link: '/library.md' },
           { text: 'Cafeterias', link: '/' },
           { text: 'Transport', link: '/' },

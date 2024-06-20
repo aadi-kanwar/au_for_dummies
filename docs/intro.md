@@ -42,7 +42,7 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
 - **Campus Life**
   - [DoSSS](dosss.md)
   - [Clubs](clubs.md)
-  - [Places to Chill]()
+  - [Gallery](gallery.md)
   - [Library](library.md)
   - [Cafeterias]()
   - [Transport]()
