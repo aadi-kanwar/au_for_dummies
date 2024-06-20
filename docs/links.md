@@ -18,7 +18,9 @@
 ## Academic Brochures
 [Alliance College of Engineering & Design](https://drive.google.com/file/d/1e2h5tKnhSq5cGuoQeCzo3Q8LNqPMIIcv/view?usp=sharing)
 
-[Allianc School of Business - MBA](https://drive.google.com/file/d/16XcnWTt9TUBW3wHooJawVMAJy7a1Me1T/view?usp=sharing)
+[Alliance School of Business - BBA / B.Com](https://drive.google.com/file/d/1kKkcbc-k29IuXCeDrXsJSo2Iuqb5-QUx/view?usp=sharing)
+
+[Alliance School of Business - MBA](https://drive.google.com/file/d/16XcnWTt9TUBW3wHooJawVMAJy7a1Me1T/view?usp=sharing)
 
 [Alliance Ascent College](https://drive.google.com/file/d/1ELjaFeviHf_LNW-rEl54_-CS43Uhr7Ek/view?usp=sharing)
 
