@@ -1,5 +1,7 @@
 # Alliance School of Business
 
+![ASOB](https://www.alliance.edu.in/uploads/infra_gallery/learning-center.webp)
+
 ## FAQs
 
 ::: details &nbsp;1. How is Alliance University different from other Universities?
@@ -37,6 +39,14 @@
 
 ::: details &nbsp; 9. How is AU preparing students for higher studies?
 &emsp;&emsp;We prepare students for higher studies with guidance from mentors who are IIT and IIM graduates. They provide expert assistance and mentorship to help students excel in competitive exams, ensuring they are well-equipped for the next academic challenge.
+:::
+
+::: details &nbsp;10. How to identify the class I am supposed to be in?  
+&emsp;&emsp;Let's take the example, LHW102. This can be interpreted as:  
+&emsp;&emsp;&emsp;&emsp;`LH` -> Lecture Hall  
+&emsp;&emsp;&emsp;&emsp;`N`/`S`/`E`/`W` -> Cardinal Direction  
+&emsp;&emsp;&emsp;&emsp;`1` -> Floor Number  
+&emsp;&emsp;&emsp;&emsp;`02` -> Room Number  
 :::
 
 ## For admissions,

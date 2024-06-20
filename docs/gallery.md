@@ -16,8 +16,6 @@
 
 ![Img 8](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/8.jpg)
 
-![Img 9](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/9.jpg)
-
 ![Img 10](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/10.jpg)
 
 ![Img 11](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/11.jpg)
@@ -25,6 +23,8 @@
 ![Img 12](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/12.jpg)
 
 ![Img 13](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/13.jpg)
+
+![Img 9](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/9.jpg)
 
 ![Img 14](https://www.alliance.edu.in/dosss/images/gallery/nov-2023/14.jpg)
 

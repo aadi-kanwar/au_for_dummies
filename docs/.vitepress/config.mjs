@@ -28,17 +28,16 @@ export default defineConfig({
         items: [
           { text: 'DoSSS', link: '/dosss.md'},
           { text: 'Clubs', link: '/clubs.md'},
-          { text: 'Gallery', link: '/gallery.md'},
           { text: 'Library', link: '/library.md'},
-          { text: 'Cafeterias', link: '/'},
-          { text: 'Transport', link: '/'},
-          { text: 'Sports', link: '/'}
+          { text: 'Cafeterias', link: '/cafeteria.md'},
+          { text: 'Sports', link: '/sports.md'},
+          { text: 'Gallery', link: '/gallery.md'},
         ]
       },
       {
         text: 'Miscellaneous',
         items: [
-          { text: 'Contact Us', link: '/team.md'},
+          { text: 'Contact Us', link: '/contact.md'},
           { text: 'Creator', link: '/me.md'}
         ]
       }
@@ -67,18 +66,17 @@ export default defineConfig({
         items: [
           { text: 'DoSSS', link: '/dosss.md' },
           { text: 'Clubs', link: '/clubs.md' },
-          { text: 'Gallery', link: '/gallery.md' },
           { text: 'Library', link: '/library.md' },
-          { text: 'Cafeterias', link: '/' },
-          { text: 'Transport', link: '/' },
-          { text: 'Sports', link: '/' },
+          { text: 'Cafeterias', link: '/cafeteria.md' },
+          { text: 'Sports', link: '/sports.md'},
+          { text: 'Gallery', link: '/gallery.md' },
         ]
       },
       {
         text: 'Miscellaneous',
 
         items: [
-          { text: 'Contact Us', link: '/team.md' },
+          { text: 'Contact Us', link: '/contact.md' },
           { text: 'Creator', link: '/me.md'}
         ]
       }

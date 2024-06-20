@@ -42,12 +42,11 @@ Oh, and by the way, this guide is a work in progress. So, keep an eye out for up
 - **Campus Life**
   - [DoSSS](dosss.md)
   - [Clubs](clubs.md)
-  - [Gallery](gallery.md)
   - [Library](library.md)
-  - [Cafeterias]()
-  - [Transport]()
-  - [Sports]()
+  - [Cafeterias](cafeteria.md)
+  - [Sports](sports.md)
+  - [Gallery](gallery.md)
 - **Miscellaneous**
-  - [Contact Us]()
+  - [Contact Us](contact.md)
   - [Creator](/me.md)
   
