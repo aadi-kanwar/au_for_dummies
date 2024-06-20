@@ -5,16 +5,16 @@
 ## FAQs
 
 ::: details &nbsp;1. How is Alliance University different from other Universities?
-&emsp;&emsp;Our diversity is our strength, bringing together a kaleidoscope of cultures, perspectives, and, yes, food options in the cafeteria. It's like the United Nations, but with more group projects and fewer political squabbles.
+&emsp;&emsp;Our diversity is our strength, bringing together a kaleidoscope of cultures, perspectives, and, yes, food options in the cafeteria.
 :::
 
 ::: details &nbsp;2. How does the student transition towards being a better version after studying the course of BBA/MBA?
-&emsp;&emsp; At Alliance University, our BBA/MBA programs are like a personal makeover but for your brain and soul. Picture yourself embarking on a "light project" that illuminates your path to wisdom, guided by our brilliant research assistants who are like the Yodas of the academic world. Add to that a series of robust internships where you’ll tackle real-world challenges, kind of like a superhero but with a briefcase instead of a cape. By the end of it, you'll not only be a sharp business mind but also a kinder, wiser, and more empathetic human being. It’s transformation, Alliance style!
+&emsp;&emsp; At AU, our BBA/MBA programs offer a comprehensive journey of personal growth and professional development. Students engage in enlightening projects under the guidance of dedicated research assistants, gaining valuable insights and skills. They also participate in rigorous internships, providing hands-on experience in real-world business challenges. By graduation, students emerge not only with sharpened business acumen but also enhanced empathy and wisdom. Our programs are designed to foster holistic transformation, preparing graduates to excel in their careers and contribute meaningfully to society.
 ::: 
 
 :::details &nbsp; 3. How is the pre-placement preparation?
 
-&emsp;&emsp;It's like a boot camp for job hunters! From intense mock interviews and specialized aptitude test training to rubbing shoulders with industry experts and snagging corporate mentorship, we've got you covered. Consider it your crash course in landing that dream job – because at AU, we prepare you to hit the ground running.
+&emsp;&emsp;It's like a boot camp for job hunters! From intense mock interviews and specialized aptitude test training to rubbing shoulders with industry experts we've got you covered. Consider it your crash course in landing that dream job – because at AU, we prepare you to hit the ground running.
 :::
 
 ::: details &nbsp; 4. How is the discipline at AU?
