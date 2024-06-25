@@ -35,7 +35,7 @@ University clubs make life richer by offering a range of activities and communit
 - 🧘 Yoga Club
 - 🏋️ Fitness Club
 
-## Hobyy Clubs
+## Hobby Clubs
 - 🎞️ Film Club
 - 🚶 Adventure Club
 - 🏍️ Bikers Club

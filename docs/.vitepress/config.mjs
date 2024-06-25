@@ -16,11 +16,7 @@ export default defineConfig({
       {
         text: 'Academics',
         items: [
-          { text: 'Schools/Colleges', link: '/schools.md'},
-          { text: 'ACED', link: '/aced.md'},
-          { text: 'ASOB', link: '/asob.md'},
-          { text: 'ASOL', link: '/'},
-          { text: 'ASLA', link: '/'}
+          { text: 'Schools/Colleges', link: '/schools.md'}
         ]
       },
       {
@@ -55,10 +51,6 @@ export default defineConfig({
         text: 'Academics',
         items: [
           { text: 'Schools/College', link: '/schools.md' },
-          { text: 'ACED', link: '/aced.md' },
-          { text: 'ASOB', link: '/asob.md' },
-          { text: 'ASOL', link: '' },
-          { text: 'ASLA', link: '' },
         ]
       },
       {
