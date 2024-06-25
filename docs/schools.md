@@ -2,8 +2,8 @@
 
 Here is a list of the academic units at AU.
 
-* [Alliance College of Engineering and Design [ACED]](aced.md) 
-* [Alliance School of Business [ASOB]](asob.md)
+* Alliance College of Engineering and Design [ACED]
+* Alliance School of Business [ASOB]
 * Alliance School of Law [ASOL]
 * Alliance Ascent College [AAC]
 * Alliance School of Liberal Arts & Humanities [ASLA]
